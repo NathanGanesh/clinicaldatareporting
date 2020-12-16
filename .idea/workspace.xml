@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d1682bf-733e-42fa-9f1f-43ef2f1eb52c" name="Default Changelist" comment="" />
+    <list default="true" id="2d1682bf-733e-42fa-9f1f-43ef2f1eb52c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clinicalApi/src/main/java/com/ikiddoi/clinical/demo/entities/AbstractEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinicalApi/src/main/java/com/ikiddoi/clinical/demo/entities/Clinicaldata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinicalApi/src/main/java/com/ikiddoi/clinical/demo/entities/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinicalApi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinicalApi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clinicalApi/src/main/java/com/ikiddoi/clinical/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinicalApi/src/main/java/com/ikiddoi/clinical/demo/ClinicalApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +29,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608053423006</updated>
       <workItem from="1608053494239" duration="65000" />
+      <workItem from="1608063246385" duration="10000" />
     </task>
     <servers />
   </component>
